@@ -1,16 +1,11 @@
-# README
+# OOXML Extension Pack
 
-## This is the README for your extension pack "ooxml-extension-pack"
+This extension pack packages extensions for working with Office Open XML (OOXML)
 
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+## Extensions Included
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+* [OOXML Viewer](https://marketplace.visualstudio.com/items?itemName=yuenm18.ooxml-viewer) The OOXML Viewer allows for viewing and editing of OOXML files, as well as viewing changes when OOXML documents are edited from outside, e.g. in Microsoft Word or Libre Office and searching all OOXML parts.
 
-## For more information
+* [OOXML Validator](https://marketplace.visualstudio.com/items?itemName=mikeebowen.ooxml-validator-vscode) - The OOXML Validator validates Office Open XML files.
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+* [.NET Install Tool for Extension Authors](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscode-dotnet-runtime) - This extension allows acquisition of the .NET runtime specifically for Visual Studio Code extension authors.
