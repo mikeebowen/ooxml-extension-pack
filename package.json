@@ -8,7 +8,7 @@
     "homepage": "https://github.com/mikeebowen/ooxml-extension-pack/blob/main/README.md",
     "repository": {
         "type": "git",
-        "url": "https://github.com/mikeebowen/ooxml-pack"
+        "url": "https://github.com/mikeebowen/ooxml-extension-pack"
     },
     "engines": {
         "vscode": "^1.63.0"
