@@ -3,7 +3,7 @@
     "displayName": "OOXML Extension Pack",
     "description": "Extensions for working with Office Open XML (OOXML)",
     "icon": "assets/ooxml-extension-pack-logo.png",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "mikeebowen",
     "homepage": "https://github.com/mikeebowen/ooxml-extension-pack/blob/main/README.md",
     "repository": {
