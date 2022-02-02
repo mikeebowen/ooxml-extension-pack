@@ -1,0 +1,26 @@
+{
+    "name": "ooxml-extension-pack",
+    "displayName": "OOXML Extension Pack",
+    "description": "Extensions for working with Office Open XML (OOXML)",
+    "version": "0.0.1",
+    "publisher": "mikeebowen",
+    "homepage": "",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/mikeebowen/ooxml-pack"
+    },
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "keywords": [
+        "ooxml"
+    ],
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "mikeebowen.ooxml-validator-vscode",
+        "ms-dotnettools.vscode-dotnet-runtime",
+        "yuenm18.ooxml-viewer"
+    ]
+}
