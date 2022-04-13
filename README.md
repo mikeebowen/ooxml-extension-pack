@@ -9,3 +9,6 @@ This extension pack packages extensions for working with Office Open XML (OOXML)
 * [OOXML Validator](https://marketplace.visualstudio.com/items?itemName=mikeebowen.ooxml-validator-vscode) - The OOXML Validator validates Office Open XML files.
 
 * [.NET Install Tool for Extension Authors](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscode-dotnet-runtime) - This extension allows acquisition of the .NET runtime specifically for Visual Studio Code extension authors.
+
+---
+<p align="right">Logo created with <a href="https://logomakr.com/">Logomakr.com</a></p>
