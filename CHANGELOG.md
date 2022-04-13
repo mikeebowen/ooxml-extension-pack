@@ -4,6 +4,11 @@ All notable changes to the "office-open-xml-extension-pack" extension pack will 
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [1.0.2] - 2022-04-13
+
+### Fixed
+- Added link to LogoMakr.com in README
+
 ## [1.0.1] - 2022-2-2
 
 ### Fixed
